@@ -1,0 +1,56 @@
+------------------------------------------------------
+
+	Monarch Admin & Frontend Templates
+
+------------------------------------------------------
+
+
+Version 1.3.1 - 29.12.2015 ( Bug Fix Release )
+
+	- Various bug fixes as suggested by WrapBootstrap Support
+
+------------------------------------------------------
+
+Version 1.3.0 - 23.12.2015 ( New Release )
+	
+	- Various Grid related bug fixes
+	- Added current menu show function. 
+	- Latest version (3.3.6) of Bootstrap Version
+	- Bootstrap can now be dropped in for latest version features. 
+
+------------------------------------------------------
+
+
+Version 1.2.0 - 3.12.2014 ( New Release )
+
+	- Various small bug fixes
+
+	- Added the following new page examples:
+
+	   1. View profile
+	   2. FAQ section
+	   3. Auto menu
+	   4. Invoice
+	   5. Blog posts list
+	   6. Pricing tables
+	   7. Portfolio gallery
+	   8. Portfolio masonry
+
+	- Added the following new features:
+
+	   1. Slidebars
+	   2. Excanvas chat sidebar
+	   3. Excanvas statistics sidebar
+	   4. Fullscreen button widget
+
+------------------------------------------------------
+
+Version 1.1.0 - 28.11.2014 ( New Release )
+
+	- Added AngularJS admin template example
+
+------------------------------------------------------
+
+Version 1.0.0 - 26.11.2014 ( Initial release )
+
+------------------------------------------------------
